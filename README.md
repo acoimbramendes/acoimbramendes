@@ -3,10 +3,14 @@
 
 Couple projects that I worked in the past
 
--> FPGA
+-> FPGA 
+
 -> RTL
+
 -> Verification
+
 -> Emulation
+
 -> Computer Architecture
 
 
