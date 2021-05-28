@@ -4,7 +4,8 @@ Couple projects that I worked in the past
 
 FPGA  RTL   Verification   Emulation  Computer Architecture
 
-Linkedin:
+Linkedin: https://www.linkedin.com/in/anderson-coimbra-mendes-b02421b6/
+
 acoimbramendes@gmail.com
 
 <!---
