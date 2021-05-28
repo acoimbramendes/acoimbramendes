@@ -2,11 +2,7 @@ Hi, I’m @acoimbramendes
 
 Couple projects that I worked in the past
 
--> FPGA 
--> RTL
--> Verification
--> Emulation
--> Computer Architecture
+FPGA  RTL   Verification   Emulation  Computer Architecture
 
 Linkedin:
 acoimbramendes@gmail.com
